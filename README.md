@@ -23,6 +23,7 @@ This project is a database-driven Supply Chain Management System with a front-en
 ## Database Design
 
 The core of this project is the database, which is meticulously designed to handle the complexities of supply chain management. 
+
 ![database](entity-relationship-diagram.png)
 
 
